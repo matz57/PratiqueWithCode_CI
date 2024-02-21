@@ -1,0 +1,14 @@
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\bin\Debug\net8.0\EvaluationSampleCode.exe
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\bin\Debug\net8.0\EvaluationSampleCode.deps.json
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\bin\Debug\net8.0\EvaluationSampleCode.runtimeconfig.json
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\bin\Debug\net8.0\EvaluationSampleCode.dll
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\bin\Debug\net8.0\EvaluationSampleCode.pdb
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.AssemblyInfoInputs.cache
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.AssemblyInfo.cs
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.csproj.CoreCompileInputs.cache
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.dll
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\refint\EvaluationSampleCode.dll
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.pdb
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\EvaluationSampleCode.genruntimeconfig.cache
+D:\Projets VisualStudio 2022\PratiqueWithCode_Subject\EvaluationSampleCode\obj\Debug\net8.0\ref\EvaluationSampleCode.dll
